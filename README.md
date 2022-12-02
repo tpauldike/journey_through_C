@@ -6,7 +6,7 @@ And we began from *what is C?* with the intention of bringing many students to t
 
 The contributors here are the chosen men, who lead the **CodeTrybe** buddy groups and ensure that PLD session hold on the ALX Peer Learning Days, and they do so by putting in much more, which of course makes their life better. They are:
 - [Mr. Ambrose](https://github.com/Ambyzhale): **CodeTrybe 10** Group A leader
-- [Mr. Soyoye](): **CodeTrybe 10** Group B leader
+- [Mr. Soyoye](https://github.com/Odeqku): **CodeTrybe 10** Group B leader
 - [Mr. Levi](https://github.com/levoski1): **CodeTrybe 10** Group C leader
 
 And, of course, there were also contributions from the [demo account](https://github.com/codetrybe) created for **CodeTrybe** officials to use in teaching newbies how to use <u>Git and GitHub</u>

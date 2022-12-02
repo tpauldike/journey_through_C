@@ -10,3 +10,5 @@ The contributors here are the chosen, men who lead the **CodeTrybe** buddy group
 - [Mr. Levi](https://github.com/levoski1): **CodeTrybe 10** Group C leader
 
 And, of course, there were also contributions from the [demo account](https://github.com/codetrybe) created for **CodeTrybe** officials to use in teaching newbies how to use <u>Git and GitHub</u>
+
+###### Students of ALX SE who are non-members of **CodeTrybe** are welcome, please join this [WhatsApp group](https://chat.whatsapp.com/EIDan9CzMq7Ag6qJBTXh8F) to get timely information on the days and times of our meetings.

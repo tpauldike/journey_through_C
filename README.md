@@ -9,4 +9,4 @@ The contributors here are the chosen, men who lead the **CodeTrybe** buddy group
 - [Mr. Soyoye](): **CodeTrybe 10** Group B leader
 - [Mr. Levi](https://github.com/levoski1): **CodeTrybe 10** Group C leader
 
-The was also contributions from the [demo account](https://github.com/codetrybe) created for **CodeTrybe** officials to use in teaching newbies how to use <u>Git and GitHub</u>
+And, of course, there were also contributions from the [demo account](https://github.com/codetrybe) created for **CodeTrybe** officials to use in teaching newbies how to use <u>Git and GitHub</u>

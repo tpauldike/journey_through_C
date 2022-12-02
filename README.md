@@ -13,5 +13,6 @@ And, of course, there were also contributions from the [demo account](https://gi
 
 -----
 ###### Students of ALX SE who are non-members of **CodeTrybe** are welcome, please join this [WhatsApp group](https://chat.whatsapp.com/EIDan9CzMq7Ag6qJBTXh8F) to get timely information on the days and times of our meetings.
+##### COME LET'S DO HARD THINGS!
 
 -----

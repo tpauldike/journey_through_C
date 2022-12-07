@@ -1,4 +1,6 @@
 # Cohort 10 and C-programming
+![Banner-The_journey_through_C-with_Topman_Paul-Dike](https://github.com/tpauldike/rough_work/blob/main/screenshots/Cohort-10_and_C%20(Banner).png)
+
 In a bid to reduce the amount of confusion that people of Cohort 10 were facing while in the first section in the ALX SE program, the founder of **CodeTrybe**, [**Topman Paul-Dike**](https://github.com/tpauldike), who happened to be in Cohort 7 in the program, heavily supported by some voluteers with like-mind, decided to take everyone from the scratch of C programing to bring on board those who are floating as a result of not paying close attention at the earliest stage or getting overwhelmed or not having the opportunity to learn with  peers.
 
 **This repository was created to hold the codes that we wrote in such classes** so that the students can always refer back to them, copy them, and play around with them.

@@ -10,7 +10,7 @@ We had an overview of what Computer is and what Computer Programming is all abou
       2. Compilation
       3. Assembly
       4. Linking
-- Understanding and following the *example box* provided in the **intranet** for us by **ALX**
+- Understanding and following the *example box* provided in the intranet
 
 ## The Files Contained Here
 In no particular order, these are the files that are in this directory and its sub directory, with some brief description, and how we came about them:
@@ -33,7 +33,7 @@ And then, to display the content of the variables, we ran the command `echo $Alo
 The next thing we did was to run our main.c file through the preprocessor stage again, but this time, we did not use the main.c directly, we used the variable EXAMPLE which had the main.c file saved inside it, and we stored the result of the process inside the file named `b`, we did this using the command `gcc -E $EXAMPLE -o b`
 
 The essence of this README is to give you the opportunity to practice these things on your own, that's how we truly learn; if you cannot do it (no matter how well you understood the lesson in the class), you have not learned. So, please do, practice, play around with them.
-This whole thing that we did gave us a perfect understanding of what task 0 of our C - Hello World project required of us. You may take a look at it in the [sub directory](./0x00-hello_world) contained here, with the eyes of your understanding enlightened. Note that the `main.c` in the sub directory here was copied from the example box provided for the task.
+This whole thing that we did gave us a perfect understanding of what task 0 of our C - Hello World project required of us. You may take a look at it in the [sub directory](./hello_world) contained here, with the eyes of your understanding enlightened. Note that the `main.c` in the sub directory here was copied from the example box provided for the task.
 
 ## Assignment
 Produce the same result that is displayed in the example box in your intranet for `0-preprocessor`, I may not display it here for certain reasons. You have the file already, use that one or write another one if you wish.

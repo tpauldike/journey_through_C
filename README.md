@@ -1,4 +1,4 @@
-# Cohort 10 and C-programming
+# The Journey through C
 ![Banner-The_journey_through_C-with_Topman_Paul-Dike](https://github.com/tpauldike/rough_work/blob/main/screenshots/Cohort-10_and_C%20(Banner).png)
 
 In a bid to reduce the amount of confusion that beginner-programmers encounter while learning C programming, the founder of **CodeTrybe**, [**Topman Paul-Dike**](https://github.com/tpauldike), heavily supported by some voluteers with like-mind - [Ebube Anyanwu](https://githib.com/ebu-be), [Abiodun Shittu](https://github.com/Abiodun-Shittu), [Samuel Adewale](https://github.com/Samfrodo9), and [Naheemah Bello](https://github.com/NaheemahBello) - decided to take those who are interested in C programming from the scratch, especially those who tried and gave up but still wish to learn it.

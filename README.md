@@ -16,6 +16,7 @@ And, of course, there were also contributions from the [demo account](https://gi
 ### Class Schedule
 ```
 Mondays and Fridays
+
 6:00 - 8:00 (GMT)
 7:00 - 9:00 (WAT)
 9:00 - 11:00 (EAT)
@@ -24,6 +25,6 @@ Mondays and Fridays
 
 -----
 ###### Non-members of **CodeTrybe** can join this [WhatsApp group](https://chat.whatsapp.com/EIDan9CzMq7Ag6qJBTXh8F) to get reminders. You may click [here](http://meet.google.com/qii-wjoz-tte) to attend the meeting.
-##### COME LET'S DO HARD THINGS!
+###### COME LET'S DO HARD THINGS!
 
 -----

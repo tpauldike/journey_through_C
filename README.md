@@ -13,8 +13,17 @@ The contributors here are the chosen men, who lead the **CodeTrybe** buddy group
 
 And, of course, there were also contributions from the [demo account](https://github.com/codetrybe) created for **CodeTrybe** officials to use in teaching newbies how to use <u>Git and GitHub</u>
 
+### Class Schedule
+```
+Mondays and Fridays
+6:00 - 8:00 (GMT)
+7:00 - 9:00 (WAT)
+9:00 - 11:00 (EAT)
+```
+**Live on** [***Google meet***](http://meet.google.com/qii-wjoz-tte)
+
 -----
-###### Students of ALX SE who are non-members of **CodeTrybe** are welcome, please join this [WhatsApp group](https://chat.whatsapp.com/EIDan9CzMq7Ag6qJBTXh8F) to get timely information on the days and times of our meetings.
+###### Non-members of **CodeTrybe** can join this [WhatsApp group](https://chat.whatsapp.com/EIDan9CzMq7Ag6qJBTXh8F) to get reminders. You may click [here](http://meet.google.com/qii-wjoz-tte) to attend the meeting.
 ##### COME LET'S DO HARD THINGS!
 
 -----

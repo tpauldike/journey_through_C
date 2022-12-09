@@ -1,11 +1,11 @@
 # Cohort 10 and C-programming
 ![Banner-The_journey_through_C-with_Topman_Paul-Dike](https://github.com/tpauldike/rough_work/blob/main/screenshots/Cohort-10_and_C%20(Banner).png)
 
-In a bid to reduce the amount of confusion that beginner-programmers encounter while learning C programming, the founder of **CodeTrybe**, [**Topman Paul-Dike**](https://github.com/tpauldike), heavily supported by some voluteers with like-mind, decided to take everyone interested in C programming from the scratch, especially those who tried and gave up but still wish to learn it.
+In a bid to reduce the amount of confusion that beginner-programmers encounter while learning C programming, the founder of **CodeTrybe**, [**Topman Paul-Dike**](https://github.com/tpauldike), heavily supported by some voluteers with like-mind - [Ebube Anyanwu](https://githib.com/ebu-be), [Abiodun Shittu](https://github.com/Abiodun-Shittu), [Samuel Adewale](https://github.com/Samfrodo9), and [Naheemah Bello](https://github.com/NaheemahBello) - decided to take those who are interested in C programming from the scratch, especially those who tried and gave up but still wish to learn it.
 
 **This repository was created to hold the codes that we wrote in such classes** so that the students can always refer back to them, copy them, and play around with them. The intention is to equip learners with the capacity to solve problems with C.
 
-The contributors here are the chosen men, who lead the **CodeTrybe** learning  groups and ensure that learning takes place among their mates. They are:
+The contributors here are the chosen men, who lead some of the **CodeTrybe** learning  groups and ensure that learning takes place among peers. They are:
 - [Mr. Ambrose](https://github.com/Ambyzhale): **CodeTrybe 10** Group A leader
 - [Mr. Soyoye](https://github.com/Odeqku): **CodeTrybe 10** Group B leader
 - [Mr. Levi](https://github.com/levoski1): **CodeTrybe 10** Group C leader

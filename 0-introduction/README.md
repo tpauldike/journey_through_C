@@ -41,8 +41,18 @@ Produce the same result that is displayed in the example box in your intranet fo
 
 *If you like, revisit that project; go through your codes with understanding*
 
+### Class Schedule
+```
+Mondays and Fridays
+
+6:00 - 8:00 (GMT)
+7:00 - 9:00 (WAT)
+9:00 - 11:00 (EAT)
+```
+**Live on** [***Google meet***](http://meet.google.com/qii-wjoz-tte)
+
 -----
-###### Students of ALX SE who are non-members of **CodeTrybe** are welcome, please join this [WhatsApp group](https://chat.whatsapp.com/EIDan9CzMq7Ag6qJBTXh8F) to get timely information on the days and times of our meetings.
-##### COME LET'S DO HARD THINGS!
+###### Non-members of **CodeTrybe** can join this [WhatsApp group](https://chat.whatsapp.com/EIDan9CzMq7Ag6qJBTXh8F) to get reminders. You may click [here](http://meet.google.com/qii-wjoz-tte) to attend the meeting.
+###### COME LET'S DO HARD THINGS!
 
 -----

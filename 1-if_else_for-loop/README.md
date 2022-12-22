@@ -16,11 +16,11 @@ In this directory are the following files:
 The file `if-else.c` went through 3 stages of editing to acheive different objectives as stated in line 1, 2, and 3, of the file:
 
 ```c
-/* A program that outputs "Welcome to the PLD" */
-/* A program that promtpts the user for his cohort and prints "Welcome to the PLD" */
-/* Make it print "Access denied" if the participant is not from cohort 10*/
+1 /* A program that outputs "Welcome to the PLD" */
+2 /* A program that promtpts the user for his cohort and prints "Welcome to the PLD" */
+3 /* Make it print "Access denied" if the participant is not from cohort 10*/
 ```
-Firstly the file looked like this:
+Firstly, the file looked like this:
 
 ```c
 #include <stdio.h>
@@ -33,3 +33,21 @@ int main(void)
 }
 ```
 
+If you're not sure what the output of this program will be, please download the executable `0-welcome` (if you're using a linux system) or copy the codes above and compile it by yourself (do `gcc if-else.c -o 0-welcome`) to see what it is, because *we learn by doing*.
+
+Then the program took another form for us to acheive the second objective stated in line 2.
+All we needed to do was to use a function known as `scanf()` to be able to receive from the computer keyboard what the user will type in when the program is running. So take a careful look at the block and the brief explanation that follows:
+```c
+4 #include <stdio.h>
+5
+6 int main(void)
+7 {
+8	int cohort;
+9
+10	printf("Enter your cohort: ");
+11	scanf("%i", &cohort);
+12	printf("Welcome to the PLD");
+13
+14	return (0);
+15 }
+```

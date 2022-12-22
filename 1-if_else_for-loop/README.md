@@ -37,7 +37,7 @@ If you're not sure what the output of this program will be, please download the 
 
 Then the program took another form for us to acheive the second objective stated in line 2.
 All we needed to do was to use a function known as `scanf()` to be able to receive from the computer keyboard what the user will type in when the program is running. So take a careful look at the block and the brief explanation that follows:
-```{r, attr.source='.numberLines'}
+```{c, attr.source='.numberLines'}
 #include <stdio.h>
 
 int main(void)

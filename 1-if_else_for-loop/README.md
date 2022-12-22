@@ -20,4 +20,16 @@ The file `if-else.c` went through 3 stages of editing to acheive different objec
 /* A program that promtpts the user for his cohort and prints "Welcome to the PLD" */
 /* Make it print "Access denied" if the participant is not from cohort 10*/
 ```
+Firstly the file looked like this:
+
+```c
+#include <stdio.h>
+
+int main(void)
+{
+	printf("Welcome to the PLD");
+
+	return (0);
+}
+```
 

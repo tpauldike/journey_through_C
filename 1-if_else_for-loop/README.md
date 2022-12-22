@@ -36,7 +36,7 @@ int main(void)
 If you're not sure what the output of this program will be, please download the executable `0-welcome` (if you're using a linux system) or copy the codes above and compile it by yourself (do `gcc if-else.c -o 0-welcome`) to see what it is, because *we learn by doing*.
 
 Then the program took another form for us to acheive the second objective stated in line 2.
-All we needed to do was to use a function known as `scanf()` to be able to receive from the computer keyboard what the user will type in when the program is running. So take a careful look at the block and the brief explanation that follows:
+All we needed to do was to use a function known as `scanf()` to be able to receive from the computer keyboard what the user will type in when the program is running. So take a careful look at the block of code and the brief explanation that follows:
 ```c
 #include <stdio.h>
 
@@ -67,7 +67,7 @@ Consider the popular poem:
 
 > Like a diamond in the sky
 
-Imagine you were playing this in your audio player (whether a DVD player, radion cassette, phone or any music player) and then you pressed a button that made it to start repeating only the first line, it will then be playing:
+Imagine you were playing this in your audio player (whether a DVD player, radio cassette, phone or any music player) and then you pressed a button that made it to start repeating only the first line, it will then be playing:
 > Twinkle twinkle llittle star
 
 > Twinkle twinkle llittle star
@@ -86,7 +86,7 @@ Imagine you were playing this in your audio player (whether a DVD player, radion
 
 > ...
 
-And it will most likely play forever except it runs out of electric power or you stop **the loop**, did I just call it **loop**? Yes, that's what loop is; looping is acheiving a repeated output or result without having to do what you did to produce the very first result.
+And it will most likely play forever except it runs out of power or you stop **the loop**, did I just call it **loop**? Yes, that's what loop is; looping is acheiving a repeated output or result without having to do again what you did to produce the very first result.
 The point where the loop continues without stopping is what we call *infinite looop*
 
 ### Here is a brief explanation of how the loop in [for-loop.c](./for-loop.c) worked.

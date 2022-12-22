@@ -60,19 +60,30 @@ If you understand up to this point, you'll find it easier to understand the curr
 ## What about loops?
 Consider the popular poem:
 > Twinkle twinkle little star
+
 > How I wonder what you are
+
 > Up above the world so high
+
 > Like a diamond in the sky
 
 Imagine you were playing this in your audio player (whether a DVD player, radion cassette, phone or any music player) and then you pressed a button that made it to start repeating only the first line, it will then be playing:
 > Twinkle twinkle llittle star
+
 > Twinkle twinkle llittle star
+
 > Twinkle twinkle llittle star
+
 > Twinkle twinkle llittle star
+
 > Twinkle twinkle llittle star
+
 > Twinkle twinkle llittle star
+
 > Twinkle twinkle llittle star
+
 > Twinkle twinkle llittle star
+
 > ...
 And it will most likely play forever except it runs out of electric power or you stop **the loop**, did I just call it **loop**? Yes, that's what loop is; looping is acheiving a repeated output or result without having to do what you did to produce the very first result.
 The point where the loop continues without stopping is what we call *infinite looop*

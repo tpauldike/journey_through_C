@@ -1,6 +1,6 @@
-/*Welcome to the PLD*/
+/* A program that outputs "Welcome to the PLD" */
 /* A program that promtpts the user for his cohort and prints "Welcome to the PLD*/
-/* Print "Access denied" if the participant is not from cohort 10*/
+/* Make it print "Access denied" if the participant is not from cohort 10*/
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -78,4 +78,4 @@ And it will most likely play forever except it runs out of electric power or you
 The point where the loop continues without stopping is what we call *infinite looop*
 
 ### Here is a brief explanation of how the loop in [for-loop.c](./for-loop.c) worked.
-Note that the aim of the loop was to print times tables for `2` from 1 to 12, i.e; 2 x 1 = 2, 2 x 2 = 4, ...2 x 12 = 24.
+Note that the aim of the loop was to print times tables for `2` from 1 to 12, i.e; `2 x 1 = 2`, `2 x 2 = 4`, ...`2 x 12 = 24`.

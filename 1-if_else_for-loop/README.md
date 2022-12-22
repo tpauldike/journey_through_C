@@ -51,3 +51,31 @@ int main(void)
 	return (0);
 }
 ```
+The goal of these transitions is to get to the point where we'll use the `if` `else` clause in a way that makes sense, so we needed to show that a program can actually receive inputs from the user at runtime.
+**In the program above**, `printf` was used to prompt the user to enter his cohort; it is the `scanf` that makes it possible for the user's input to enter the program and be stored in the variable `cohort` that was earlier declared, and then the next thing it does is to print `Welcome to the PLD`.
+At this point, we did `gcc if-else.c -o 1-welcome`; so the file `1-welcome` is the executable for the program in the above block of code. You may run it and see the result.
+
+If you understand up to this point, you'll find it easier to understand the current content of [if-else.c](./if-else.c), where we made the program to print `Welcome to the PLD` only if the user entered `10`, or `Access denied` if the user entered something else. If you do not understand up to this point please feel free to contact **Topman Paul-Dike**, using any of the contact details on his [github profile](https://github.com/tpauldike)
+
+## What about loops?
+Consider the popular poem:
+> Twinkle twinkle little star
+> How I wonder what you are
+> Up above the world so high
+> Like a diamond in the sky
+
+Imagine you were playing this in your audio player (whether a DVD player, radion cassette, phone or any music player) and then you pressed a button that made it to start repeating only the first line, it will then be playing:
+> Twinkle twinkle llittle star
+> Twinkle twinkle llittle star
+> Twinkle twinkle llittle star
+> Twinkle twinkle llittle star
+> Twinkle twinkle llittle star
+> Twinkle twinkle llittle star
+> Twinkle twinkle llittle star
+> Twinkle twinkle llittle star
+> ...
+And it will most likely play forever except it runs out of electric power or you stop **the loop**, did I just call it **loop**? Yes, that's what loop is; looping is acheiving a repeated output or result without having to do what you did to produce the very first result.
+The point where the loop continues without stopping is what we call *infinite looop*
+
+### Here is a brief explanation of how the loop in [for-loop.c](./for-loop.c) worked.
+Note that the aim of the loop was to print times tables for `2` from 1 to 12, i.e; 2 x 1 = 2, 2 x 2 = 4, ...2 x 12 = 24.

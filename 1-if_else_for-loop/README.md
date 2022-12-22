@@ -15,10 +15,9 @@ In this directory are the following files:
 
 The file `if-else.c` went through 3 stages of editing to acheive different objectives as stated in line 1, 2, and 3, of the file:
 
-```
+```c
 /* A program that outputs "Welcome to the PLD" */
 /* A program that promtpts the user for his cohort and prints "Welcome to the PLD" */
 /* Make it print "Access denied" if the participant is not from cohort 10*/
-
-```c
+```
 

@@ -68,21 +68,21 @@ Consider the popular poem:
 > Like a diamond in the sky
 
 Imagine you were playing this in your audio player (whether a DVD player, radio cassette, phone or any music player) and then you pressed a button that made it to start repeating only the first line, it will then be playing:
-> Twinkle twinkle llittle star
+> Twinkle twinkle little star
 
-> Twinkle twinkle llittle star
+> Twinkle twinkle little star
 
-> Twinkle twinkle llittle star
+> Twinkle twinkle little star
 
-> Twinkle twinkle llittle star
+> Twinkle twinkle little star
 
-> Twinkle twinkle llittle star
+> Twinkle twinkle little star
 
-> Twinkle twinkle llittle star
+> Twinkle twinkle little star
 
-> Twinkle twinkle llittle star
+> Twinkle twinkle little star
 
-> Twinkle twinkle llittle star
+> Twinkle twinkle little star
 
 > ...
 

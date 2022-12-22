@@ -96,4 +96,4 @@ Note that the aim of the loop was to print times tables for `2` from 1 to 12, i.
 
 
 ## Assignment
-Write a program that prints `Twinkle twinkle llittle star` 10 times without you having to type it 10 times.
+Write a program that prints `Twinkle twinkle little star` 10 times without you having to type it 10 times.

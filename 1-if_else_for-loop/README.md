@@ -79,3 +79,9 @@ The point where the loop continues without stopping is what we call *infinite lo
 
 ### Here is a brief explanation of how the loop in [for-loop.c](./for-loop.c) worked.
 Note that the aim of the loop was to print times tables for `2` from 1 to 12, i.e; `2 x 1 = 2`, `2 x 2 = 4`, ...`2 x 12 = 24`.
+
+
+
+
+## Assignment
+Write a program that prints `Twinkle twinkle llittle star` 10 times without you having to type it 10 times.

@@ -87,7 +87,7 @@ Imagine you were playing this in your audio player (whether a DVD player, radio 
 > ...
 
 And it will most likely play forever except it runs out of power or you stop **the loop**, did I just call it **loop**? Yes, that's what loop is; looping is acheiving a repeated output or result without having to do again what you did to produce the very first result.
-The point where the loop continues without stopping is what we call *infinite looop*
+The point where the loop continues without stopping is what we call *infinite loop*
 
 ### Here is a brief explanation of how the loop in [for-loop.c](./for-loop.c) worked.
 Note that the aim of the loop was to print times tables for `2` from 1 to 12, i.e; `2 x 1 = 2`, `2 x 2 = 4`, ... `2 x 12 = 24`.

@@ -214,6 +214,8 @@ for (times = 13 and if 13 < 13 is true)
 ```
 But, when `times` is equal to `13`, `times < 13` will mean `13 < 13`, which is not `true`, and because the condition is now `false`, the `printf` code will no more execute and the program will break out of the loop, and that's the end.
 
+The file `loop` is the executable that resulted from the command `gcc for-loop.c -o loop`
+
 ## Assignment
 1. Write a program that prints `Twinkle twinkle little star` 10 times without you having to type it 10 times.
 2. What will happen if the loop didn't have the `times++`?

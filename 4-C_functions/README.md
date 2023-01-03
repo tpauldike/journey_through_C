@@ -10,7 +10,7 @@ We had to call all these functions in the same **main** function to test them an
 After that stage we went ahead to separate what we have in the single file [functions_pld.c](./functions_pld.c) to be contained in different files; we had each function in a separate file, which made clearer to us the essence of `main.c` files (the test file) and `main.h` files (the header file). Although we chose to call our own header file `hdio.h`, a random name chosen by one of the peers present in the class.
 
 You may want to take a careful look at the files and see what content exactly we took from `functions_pld.c` to create each of the other files and what we had to add, such as; `#include "hdio.h`, `#ifndef _HDIO_` and so on. We ended up compiling all the separated files, except `hdio.h` in a single command, producing another executable `func-segun`;
-> We ran `gcc subtraction.c addition.c multiplication.c division.c main.c -o func-segun` and then ran the executable.
+> We ran `gcc subtration.c addition.c multiplication.c divide.c main.c -o func-segun` and then ran the executable.
 
 It was interesting to note that both executable files produced exactly the same result;
 ```

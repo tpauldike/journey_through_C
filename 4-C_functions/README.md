@@ -22,7 +22,7 @@ It is interesting to note that both executable files produced exactly the same r
 This shows that our function can work well in the same file but we can separate them in order not to have our file too crowded and to make the code easier to read.
 
 ## Assignment
-Play with nested loops of any kind *(do anything with them)*
+Play with nested loops of any kind *(do anything with them)*.
 ***Kindly send the screenshots of your source code and the output via WhatsApp to [Topman](https://wa.link/66ef36) directly.***
 
 **The Journey through C** may have to be paused for a while for certain reasons, after this week, to be continued as soon as possible, but learning will continue, classes will hold that will be handled by capable hands that is not Topman; kindly cooporate.

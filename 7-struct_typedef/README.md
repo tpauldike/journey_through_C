@@ -14,7 +14,7 @@ And that `typedef` is simply used to provide an alias for the `struct` created.
 
 We resolved to build a simple struct for each contact in a phonebook and the last thing we did before the end of the class was [this file](./contact.c).
 
-In the file [struct.c](./struct.c), we were trying to prove whether or an array was needed to store the user's number.
+In the file [struct.c](./struct.c), we were trying to prove whether (or not) an array was needed to store the user's number.
 You may get the file, compile it, run it and type in a contact to see the result for yourself.
 ## Assignment
 What and what is not right in the file [contact.c](./contact.c) and why?

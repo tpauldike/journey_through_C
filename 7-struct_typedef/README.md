@@ -53,7 +53,7 @@ Peter Obi
 ```
 
 ### 3. [1-contact.c](./1-contact.c)
-This file was an improvement on the previous one, where we created a function `print` that handles the printing, so that we will not have to print each field like we did in the main file. And the output of the program, after compilation, was the same, as expected
+This file was an improvement on the previous one, where we created a function `print` that handles the printing, so that we will not have to print each field like we did in the main block of code of the previous file. And the output of the program, after compilation, was the same, as expected
 
 ### 4. [2-contact.c](./2-contact.c)
 We took it further in this file, trying to have a function that could assign values to the 3 fields (name, code no) without having us do `Maro.name = "Peter Obi"`.

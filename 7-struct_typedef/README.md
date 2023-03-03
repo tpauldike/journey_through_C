@@ -14,7 +14,7 @@ And that, `typedef` is simply used to provide an alias for the `struct` created.
 
 We resolved to build a simple struct for each contact in a phonebook and the last thing we did before the end of the class was [this file](./2-contact.c).
 
-## Programs writing in the class
+## Programs written in the class
 ### 1. struct.c
 In the file [struct.c](./struct.c), we were trying to prove whether (or not) an array was needed to store the user's number.
 You may get the file, compile it, run it and type in a contact to see the result for yourself.
@@ -30,7 +30,7 @@ struct phonebook{
        unsigned int no; //number
 }
 ```
-And we found out, as we made progress, that the right way to give this struct an alias was to add the `typedef` keyword before `struct` and add the alias after the closing curly braces, and then a semi colon, which leaves us with what we have below:
+And we found out, as we made progress, that the right way to give this struct an alias was to add the `typedef` keyword before `struct` and add the alias after the closing curly brace, and then a semi colon, which leaves us with what we have below:
 ```c
 typedef struct phonebook{
         char name[100]; //contact's name
@@ -46,7 +46,7 @@ By the above block of code, we had a new datatype `contact`, so we declared in t
 	/*Just like we do...*/
 	int var;
 ```
-We initialized the variable `Maro` (i.e; we gave the 3 fields some values for name, code & no), and compiled it with the command `gcc 0-contact.c -o 0-contact` and ran the executable file (`./0-contact`) and our newly created contact was:
+We initialized the variable `Maro` (i.e; we gave the 3 fields - name, code & no - some values), and compiled it with the command `gcc 0-contact.c -o 0-contact` and ran the executable file (`./0-contact`) and our newly created contact was:
 ```
 Peter Obi
 +124 12341234

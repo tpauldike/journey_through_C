@@ -59,12 +59,10 @@ Madam Amaka
 ### 3. [1-contact.c](./1-contact.c)
 This file was an improvement on the previous one, where we created a function `print` that handles the printing, so that we will not have to print each field like we did in the main block of code of the previous file. And the output of the program, after compilation, was the same, as expected
 
-### 4. [2-contact.c](./2-contact.c)
-We took it further in this file, trying to have a function that could assign values to the 3 fields (name, code no) without having us do `Maro.name = "Peter Obi"`.
-Note that `Maro` was just the name we chose to give our variable, it could have been something else.
+Note that `Maro` and `Amaka` were just the names we chose to give our variables, they could have been something else.
 
 ## Assignment
-Fix the bug in [**2-contact.c**](./contact.c) and make the program work.
+Copy the content of the file, [**2-contact.c**](./contact.c), and get the task done.
 
 ***Kindly send the screenshots of your source code and the output [via WhatsApp to Topman](https://wa.link/66ef36) directly.***
 

@@ -50,6 +50,10 @@ We initialized the variable `Maro` (i.e; we gave the 3 fields - name, code & no 
 ```
 Peter Obi
 +124 12341234
+
+Madam Amaka
++234 43214321
+
 ```
 
 ### 3. [1-contact.c](./1-contact.c)

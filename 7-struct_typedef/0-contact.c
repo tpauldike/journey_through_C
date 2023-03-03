@@ -23,10 +23,10 @@ int main(void)
     //to print the contact's name
     printf("%s\n", Maro.name);
     //print country code and number
-    printf("%s %d\n", Maro.code, Maro.no);
+    printf("%s %d\n\n", Maro.code, Maro.no);
 
-    printf("\n%s\n", Amaka.name);
-    printf("%s %d\n", Amaka.code, Amaka.no);
+    printf("%s\n", Amaka.name);
+    printf("%s %d\n\n", Amaka.code, Amaka.no);
 
     return 0;
 }

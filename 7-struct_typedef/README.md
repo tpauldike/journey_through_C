@@ -62,7 +62,7 @@ This file was an improvement on the previous one, where we created a function `p
 Note that `Maro` and `Amaka` were just the names we chose to give our variables, they could have been something else.
 
 ## Assignment
-Copy the content of the file, [**2-contact.c**](./contact.c), and get the task done.
+Copy the content of the file, [**2-contact.c**](./2-contact.c), and get the task done.
 
 ***Kindly send the screenshots of your source code and the output [via WhatsApp to Topman](https://wa.link/66ef36) directly.***
 

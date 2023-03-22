@@ -1,5 +1,0 @@
-#!/bin/bash
-pwd
-echo 'We are learning tonight' > PLD
-ls
-echo -e '\n-----\ndone!\n-----\n'

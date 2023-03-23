@@ -7,7 +7,7 @@ list *new(list *head, int value)
     if (!head)
 	perror("No list found\n");
 
-    if (p != NULL)
+    while (p->next != NULL)
 	p = p->next;
 
     tmp = malloc(sizeof(list));

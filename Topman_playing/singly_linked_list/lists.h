@@ -5,11 +5,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* struct for each node */
-typedef struct list {
-    int n;
-    struct list *link;
-} node;
+/**
+ * struct list - a struct for the node of the list
+ * @n: integer value
+ * @link: the link to the next node
+ */
+struct list
+{
+	int n;
+	struct list *link;
+};
+
+/* giving my struct an alias */
+typedef struct list node;
 
 /* function prototypes */
 void count_list(struct list *head);

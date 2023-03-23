@@ -7,21 +7,21 @@
  */
 void count_list(struct list *head)
 {
-    struct list *ptr;
-    int no = 0;
+	struct list *ptr;
+	int no = 0;
 
-    if (head == NULL)
-    {
-	printf("The list is empty!\n");
-	exit(1);
-    }
+	if (head == NULL)
+	{
+		printf("The list is empty!\n");
+		exit(1);
+	}
 
-    ptr = head;
-    while (ptr != NULL)
-    {
-	no++;
-	ptr = ptr->link;
+	ptr = head;
+	while (ptr != NULL)
+	{
+		no++;
+		ptr = ptr->link;
 
-    }
-    printf("The list has %d nodes now\n", no);
+	}
+	printf("The list has %d nodes now\n", no);
 }

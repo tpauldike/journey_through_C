@@ -7,19 +7,19 @@
  */
 void node_addr(node *head_ptr)
 {
-    int c = 0;
-    node *head = head_ptr;
+	int c = 0;
+	node *head = head_ptr;
 
-    if (head_ptr == NULL)
-    {
-	printf("Error: head pointer is NULL\n");
-	exit(1);
-    }
+	if (head_ptr == NULL)
+	{
+		printf("Error: head pointer is NULL\n");
+		exit(1);
+	}
 
-    while (head != NULL)
-    {
-	c += 1;
-	printf("addr of node %d: %p\n", c, head);
-	head = head->link;
-    }
+	while (head != NULL)
+	{
+		c += 1;
+		printf("addr of node %d: %p\n", c, head);
+		head = head->link;
+	}
 }

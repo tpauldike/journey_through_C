@@ -9,21 +9,21 @@
  */
 void print_data(node *head_ptr)
 {
-    node *ptr;
+	node *ptr;
 
-    if (head_ptr == NULL)
-    {
-	printf("Error:\tEmpty list!\n");
-	exit(1);
-    }
+	if (head_ptr == NULL)
+	{
+		printf("Error:\tEmpty list!\n");
+		exit(1);
+	}
 
-    ptr = head_ptr;
+	ptr = head_ptr;
 
-    printf("The data in the linked list:\n");
-    while (ptr != NULL)
-    {
-	printf("%d ", ptr->n);
-	ptr = ptr->link;
-    }
-    newl(); /* defined in newl.c */
+	printf("The data in the linked list:\n");
+	while (ptr != NULL)
+	{
+		printf("%d ", ptr->n);
+		ptr = ptr->link;
+	}
+	newl(); /* defined in newl.c */
 }

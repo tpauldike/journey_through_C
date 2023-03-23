@@ -16,6 +16,6 @@ void count_list(struct list *head);
 void node_addr(node *head_ptr);
 void print_data(node *head_ptr);
 void newl(void);
-node* add_node(node *new, int n);
+node *add_node(node *new, int n);
 
 #endif /* LIST_H */

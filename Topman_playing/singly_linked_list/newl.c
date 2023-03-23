@@ -6,5 +6,5 @@
  */
 void newl(void)
 {
-    putchar('\n');
+	putchar('\n');
 }

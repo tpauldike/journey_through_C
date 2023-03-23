@@ -9,7 +9,7 @@ We tried to appreciate the real world applications of these, we talked about sta
 We compared arrays and linked list a bit and deviated a little to highlight the main difference between singly linked lists, doubly linked lists and circular linked lists.
 
 ## What is struct and typedef?
-We established that struct is the data structure in `c` that allows one to group data of different types as one data type, *a bit similar to creating an objects with attributes in `python`*.
+We established that struct is the data structure in `c` that allows one to group data of different types as one data type, *a bit similar to creating an object with attributes in `python`*.
 And that, `typedef` is simply used to provide an alias for the `struct` created.
 
 We resolved to build a simple struct for each contact in a phonebook and the last thing we did before the end of the class was [this file](./2-contact.c).

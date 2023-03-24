@@ -1,11 +1,19 @@
 #include "lists.h"
 
+/**
+ * countc - counts the contacts on the list
+ *
+ * @head: pointer to the first contact on the list
+ *
+ * Retutn: Nothing
+ */
+
 void countc(contact *head)
 {
 	contact *p = head;
 	unsigned int n = 0;
 
-	if(!head)
+	if (!head)
 	{
 		printf("Can not count: not a contact list!!\n");
 		return;

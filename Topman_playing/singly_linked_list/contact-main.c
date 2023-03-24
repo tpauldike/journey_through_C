@@ -35,5 +35,5 @@ int main(void)
 	countc(tail);
 
 
-	return 0;
+	return (0);
 }

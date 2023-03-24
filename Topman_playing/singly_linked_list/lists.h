@@ -37,8 +37,10 @@ node *add_node(node *new, int n);
  * @name: name of the contact
  * @code: country code of the contact
  * @no: phone number of the contact
+ * @next: points to the next contact on the list
  */
-struct phonebook{
+struct phonebook
+{
 	char name[100];
 	char code[5];
 	unsigned int no;

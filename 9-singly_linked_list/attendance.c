@@ -22,6 +22,7 @@ int main(void)
     add_rec(h_ptr, "Sandra Udieke", 123, 15);
     printf("\n--- After adding ---\n\n");
     display_rec(h_ptr);
-
+    add_rec(h_ptr, "whyte Emmanuel", 233, 21);
+    display_rec(h_ptr);
     return (0);
 }

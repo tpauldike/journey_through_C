@@ -21,6 +21,8 @@ int main(void)
 
     print(head);
     new(head, 12);
+    new(head, 100);
+    new(head, 16);
     print(head);
 
     return (0);

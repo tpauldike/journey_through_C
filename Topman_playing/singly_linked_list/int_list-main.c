@@ -29,20 +29,20 @@ int main(void)
 	newl();
 	count_list(head); /* count the nodes */
 	newl();
-	node_addr(head); /* print nodes' address in memory */
-	newl();
 	print_data(head);
 	newl();
-	add_node(head, 30); /* add a new node */
+	next = add_node(head, 30); /* add a new node */
 	newl();
 	print_data(head);
 	newl();  /* prints a new line */
-	add_node(head, 15);
-	add_node(head, 50);
+	next = add_node(head, 15);
+	next = add_node(head, 50);
 	newl();
 	print_data(head); /* print all data in th linked list */
 	newl();
 	count_list(head);
+	newl();
+	node_addr(head); /* print nodes' address in memory */
 	newl();
 
 	return (0);

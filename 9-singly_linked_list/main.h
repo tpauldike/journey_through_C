@@ -14,7 +14,7 @@ typedef struct myList {
 void print(struct myList *head);
 list *new(list *head, int value);
 
-/* STEUCT AND FUNCTION PROTOTYPES FOR ATTENDANCE LIST */
+/* STRUCT AND FUNCTION PROTOTYPES FOR ATTENDANCE LIST */
 
 struct attendance{
 	char name[100];
@@ -25,6 +25,8 @@ struct attendance{
 
 /* alias for the struct above */
 typedef struct attendance atnd;
+
+/* function prototypes for pld_attendance */
 void display_rec(atnd *h_ptr);
 atnd *add_rec(atnd *h_ptr, char *name, int id, int cohort);
 

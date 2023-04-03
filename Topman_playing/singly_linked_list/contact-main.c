@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	contact *head, *tail;
+	contact *head;
 
 	/* the head and first node created */
 	head = malloc(sizeof(contact));
@@ -29,11 +29,6 @@ int main(void)
 
 	countc(head); /* count again */
 	printc(head); /* print MY CONTACT now */
-	/* print tail, which is not a contact list */
-	printc(tail);
-	/* count tail, which is not a contact list */
-	countc(tail);
-
 
 	return (0);
 }

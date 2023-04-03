@@ -19,7 +19,10 @@ int main(void)
     h_ptr->next = new_rec;
 
     display_rec(h_ptr);
+
     add_rec(h_ptr, "Sandra Udieke", 123, 15);
+    add_rec(h_ptr, "Whyte Emmanuel", 233, 21);
+
     printf("\n--- After adding ---\n\n");
     display_rec(h_ptr);
     add_rec(h_ptr, "whyte Emmanuel", 233, 21);

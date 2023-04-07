@@ -7,5 +7,7 @@
  */
 int main(void)
 {
-    return (0);
+	char my_name[] = "Topman";
+
+	return (0);
 }

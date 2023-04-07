@@ -35,7 +35,12 @@ int main(void)
 	
 	nextl = malloc(sizeof(btr));
 	root->left->left = nextl;
-	//nextl->parent-> = root;
+	nextl->parent = root->left;
+	nextl->data = 2;
+	nextl->left = NULL;
+	nextl->right = NULL;
+
+	
 
 
 	return (0);

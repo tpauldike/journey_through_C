@@ -4,4 +4,9 @@ that held in a bid to understand and implement the `C` printf() function togethe
 The directories were created to show the different levels the of work we did,
 the sessions were recorded and you can find the recordings on
 [Codetrybe Youtube Channel](https://youtube.com/@codetrybe), as you will
-definitely find them useful
+definitely find them useful.
+
+In the part 1 of this series, we did not write any code, as it was about
+revealing the secrets of *printf()*, seeing the video on **YouTube** will
+give you a perfect understanding of how will came about the codes in these directories.
+

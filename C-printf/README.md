@@ -7,6 +7,6 @@ the sessions were recorded and you can find the recordings on
 definitely find them useful.
 
 In the part 1 of this series, we did not write any code, as it was about
-revealing the secrets of *printf()*, seeing the video on **YouTube** will
-give you a perfect understanding of how will came about the codes in these directories.
+revealing the secrets of *printf()*, seeing the video on **YouTube**, especially from part2, will
+give you a perfect understanding of how we came about the codes in these directories.
 

@@ -12,20 +12,39 @@ int main(void)
 {
 	struct node *root;
 	btr *nextl, *nextr;
+	
+	// create root node
+	root = malloc(sizeof(btr)); // Allocate memory for root node
+	root->data = 6; // Assign value to root node
+	root->parent = NULL; // Set parent of root node to NULL
+	root->left = NULL; // Set left child of root node to NULL
+	root->right = NULL; // Set right child of root node to NULL
 
+<<<<<<< HEAD
 	root = malloc(sizeof(btr)); // Allocate memory for root nod
 	root->data = 6;
 	root->parent = NULL;
 	root->left = NULL;
 	root->right = NULL;
+=======
+	// create left child node
+	nextl = malloc(sizeof(btr)); // Allocate memory for left child node
+	root->left = nextl; // Assign left child node to root node
+	nextl->data = 3; // Assign value to left child node
+	nextl->parent = root; // Set parent of left child node to root node
+	nextl->left = NULL; // Set left child of left child node to NULL
+	nextl->right = NULL; // Set right child of left child node to NULL
+>>>>>>> 815cf0fdc393efdc1dcc5cf1c87b4710619e713a
 
-	nextl = malloc(sizeof(btr));
-	root->left = nextl;
-	nextl->data = 3;
-	nextl->parent = root;
-	nextl->left = NULL;
-	nextl->right = NULL;
+	// create right child node
+	nextr = malloc(sizeof(btr)); // Allocate memory for right child node
+	root->right = nextr; // Assign right child node to root node
+	nextr->data = 8; // Assign value to right child node
+	nextr->parent = root; // Set parent of right child node to root node
+	nextr->left = NULL; // Set left child of right child node to NULL
+	nextr->right = NULL; // Set right child of right child node to NULL
 
+<<<<<<< HEAD
 	nextr = malloc(sizeof(btr));
 	root->right = nextr;
 	nextr->data = 8;
@@ -39,7 +58,23 @@ int main(void)
 	nextl->data = 2;
 	nextl->left = NULL;
 	nextl->right = NULL;
+=======
+	 // create left child of the left child node
+	nextl = malloc(sizeof(btr)); // Allocate memory for left grandchild node
+	root->left->left = nextl; // Assign left grandchild node to left child of root node
+	nextl->parent = root->left; // Set parent of left grandchild node to left child of root node
+	nextl->data = 2; // Assign value to left grandchild node
+	nextl->left = NULL; // Set left child of left grandchild node to NULL
+	nextl->right = NULL; // Set right child of left grandchild node to NULL
+>>>>>>> 815cf0fdc393efdc1dcc5cf1c87b4710619e713a
 
+	 // create right child of the left child node
+	nextr = malloc(sizeof(btr)); // Allocate memory for right grandchild node
+	root->left->right = nextr; // Assign right grandchild node to left child of root node
+	nextr->parent = root->left; // Set parent of right grandchild node to left child of root node
+	nextr->data = 7; // Assign value to right child node
+	nextr->left = NULL; //Set left child of right grandchild node to NULL
+	nextr->right = NULL; // Set right child of right grandchild node to NULL
 
 	return (0);
 }

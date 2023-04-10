@@ -13,7 +13,7 @@ int main(void)
 	struct node *root;
 	btr *nextl, *nextr;
 
-	root = malloc(sizeof(btr));
+	root = malloc(sizeof(btr)); // Allocate memory for root nod
 	root->data = 6;
 	root->parent = NULL;
 	root->left = NULL;
@@ -35,7 +35,10 @@ int main(void)
 	
 	nextl = malloc(sizeof(btr));
 	root->left->left = nextl;
-	//nextl->parent-> = root;
+	nextl->parent-> = root->left;
+	nextl->data = 2;
+	nextl->left = NULL;
+	nextl->right = NULL;
 
 
 	return (0);

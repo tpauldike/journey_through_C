@@ -1,4 +1,3 @@
-//TASK: print the floating value in 2 decimal places
 #include <stdio.h>
 
 int main(void)
@@ -9,7 +8,7 @@ int main(void)
 
     printf("number: %i\n", number);
     printf("letter: %c\n", letter);
-    /* Your code goes here */
+    printf("decimal: %.2f\n", decimal);
 
     return (0);
 }

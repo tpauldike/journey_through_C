@@ -1,5 +1,5 @@
 # The Journey through C
-![Banner-The_journey_through_C-with_Topman_Paul-Dike](https://github.com/tpauldike/rough_work/blob/main/screenshots/Cohort-10_and_C%20(Banner).png)
+![the_journey_through_C-with_Topman_Paul-Dike](https://github.com/tpauldike/rough_work/blob/main/designs/journey_through_C.jpg)
 
 In a bid to reduce the amount of confusion that beginner-programmers encounter while learning C programming, the founder of **CodeTrybe**,
 [**Topman Paul-Dike**](https://github.com/tpauldike), heavily supported by some voluteers with like-mind - [Ebube Anyanwu](https://githib.com/ebu-be),

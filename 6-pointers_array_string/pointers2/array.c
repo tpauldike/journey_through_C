@@ -10,7 +10,11 @@ int main(void)
 
     class[0] = 1;
     putchar('\n');
-    printf("class[0]: %i\n", class);
+    printf("class: %p\n", class);
+    printf("&class[0]: %p\n", &class[0]);
+    printf("&class[1]: %p\n", &class[1]);
+    printf("&class[2]: %p\n", &class[2]);
+    printf("*class: %d\n", *class);
 
     return (0);
 }
